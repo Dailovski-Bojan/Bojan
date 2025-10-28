@@ -54,4 +54,5 @@ import java.util.Scanner;
 			}
 			
 		}
-}//napraj poslozen kalkulator za domasna
+}
+
